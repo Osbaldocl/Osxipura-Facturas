@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Osxipura Facturas</string>
+    <!-- Strings related to login -->
+    <string name="prompt_username">Nombre de Usuario</string>
+    <string name="prompt_contraseña">Contraseña</string>
+    <string name="action_entrar">Entrar</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">El usuario o contraseña están incorrectos, favor de verificar las credenciales</string>
+    <string name="title_activity_main_menu">MainMenu</string>
+    <string name="tab_text_pendientes">Facturas Pendientes</string>
+    <string name="tab_text_solicitar">Solicitar Facturas</string>
+    <string name="tab_text_buscar">Buscar Facturas</string>
+    <string name="Nombre_cliente">Nombre de la empresa cliente: </string>
+    <string name="Nombre_cliente_buscar">Nombre del cliente de la factura a buscar: </string>
+    <string name="Nombre_cliente_hint">Nombre cliente </string>
+    <string name="cantidad_producto">Cantidad de producto solicitada: </string>
+    <string name="cantidad_producto_hint">Cantidad de producto</string>
+    <string name="cantidad_garrafones">Cantidad de garrafones en factura: </string>
+    <string name="cantidad_garrafones_hint">Cantidad de garrafones</string>
+    <string name="precio_producto">Precio por unidad</string>
+    <string name="precio">Precio</string>
+    <string name="añadir_pedido">Añadir Producto a la solicitud</string>
+    <string name="finalizar_pedido">Finalizar petición de factura</string>
+    <string name="tipo_producto">tipo de producto solicitado: </string>
+    <string name="buscar">Buscar</string>
+    <string name="buscar_fechas">Buscar entre fechas</string>
+    <string name="fecha_inicial">Fecha incial</string>
+    <string name="fecha_final">Fecha final</string>
+
+
+</resources>
